@@ -118,5 +118,4 @@ The goal is to provide cricket enthusiasts, analysts, and decision-makers with a
 
 ---
 
-## Repository Structure
 
