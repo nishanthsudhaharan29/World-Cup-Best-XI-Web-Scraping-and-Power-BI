@@ -1,4 +1,4 @@
-# Cricket World Cup Best XI Selection and Dashboard
+# Cricket World Cup Best XI Selection Criteria and Power BI Report
 
 ## Project Description
 
